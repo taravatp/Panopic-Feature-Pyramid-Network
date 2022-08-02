@@ -2,7 +2,7 @@
 **This project is the Pytorch implementation of this paper: [Panoptic Feature Pyramid Networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Feature_Pyramid_Networks_CVPR_2019_paper.pdf)**
 
 ## Data Preprarion:
-* [coco_instance_dataset.ipynb](DataLoaders/coco_instance_dataset.ipynb): Loading the COCO images and preparing their instance segmentation label masks.
+* [coco_instance_dataset.ipynb](DataLoaders/coco_instance_dataset.ipynb): Loading the COCO images and preparing their instance segmentation masks.
 * [coco_semantic_dataset.ipynb](DataLoaders/coco_semantic_dataset.ipynb): Loading the COCO images and preparing their semantic segmentation masks.
 
 ## Models:
