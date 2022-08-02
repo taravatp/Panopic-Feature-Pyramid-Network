@@ -6,8 +6,8 @@
 * [coco_semantic_dataset.ipynb](DataLoaders/coco_semantic_dataset.ipynb): Loading the COCO images and preparing their semantic segmentation masks.
 
 ## Models:
-*[instance_model.ipynb](models/instance_model.ipynb): implementation of a model for the instance segmentation task. In this project a MASK RCNN model with Resnet50 as backbone is customized to suit the COCO dataset.
-*[semantic_model.ipynb](models/semantic_model.ipynb): implementation of a model for the semantic segmentation task. Modified a MASK RCNN model with a Resnet50 backbone according to the proposed model in the paper as follows:
+* [instance_model.ipynb](models/instance_model.ipynb): implementation of a model for the instance segmentation task. In this project a MASK RCNN model with Resnet50 as backbone is customized to suit the COCO dataset.
+* [semantic_model.ipynb](models/semantic_model.ipynb): implementation of a model for the semantic segmentation task. Modified a MASK RCNN model with a Resnet50 backbone according to the proposed model in the paper as follows:
 * [panoptic_model.ipynb](models/panoptic_model.ipynb): A single model, which is the combination of the methods implemeted in ()[] and ()[] for panoptic segmentation.
 
 ## Training:
