@@ -15,4 +15,10 @@
 * [train_semantic.ipynb](training/train_semantic.ipynb): trains the semantic segmentation model.
 * [train_panoptic.ipynb](training/train_panoptic.ipynb): trains the panoptic segmentation model.
 
-** Results:
+## Results:
+
+**To Do List:
+-[X] Train the instance segmentation model.
+-[X]  Train the semantic segmentation model. 
+-[X] combine the results of instance segmentation and semantic segmentation to produce results.
+-[] Train the joint mdoel
