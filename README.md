@@ -17,8 +17,8 @@
 
 ## Results:
 
-**To Do List:
+**To Do List:**
 - [x] Train the instance segmentation model.
 - [x]  Train the semantic segmentation model. 
 - [x] Combine the results of instance segmentation and semantic segmentation to produce results.
-- [] train the joint model.
+- [ ] train the joint model.
