@@ -8,7 +8,7 @@
 ## Models:
 * [instance_model.ipynb](models/instance_model.ipynb): implementation of a model for the instance segmentation task. In this project a MASK RCNN model with Resnet50 as backbone is customized to be suitable for the COCO dataset.
 * [semantic_model.ipynb](models/semantic_model.ipynb): implementation of a model for the semantic segmentation task. Modified a MASK RCNN model with a Resnet50 FPN backbone according to the proposed model in the paper as follows:
-* 
+
 <p align="center" width="100%">
 <img src="images/semantic_model.png" width="60%" height="60%">
 </p>
