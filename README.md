@@ -13,7 +13,7 @@
 <img src="images/semantic_model.png" width="60%" height="60%">
 </p>
 
-* [panoptic_model.ipynb](models/panoptic_model.ipynb): A single model, which is the combination of the methods implemeted in (instance_model.ipynb)[models/instance_model.ipynb] and (semantic_model.ipynb)[]models/semantic_model.ipynb for panoptic segmentation.
+* [panoptic_model.ipynb](models/panoptic_model.ipynb): A single model, which is the combination of the methods implemeted in [instance_model.ipynb](models/instance_model.ipynb) and [semantic_model.ipynb](models/semantic_model.ipynb) for panoptic segmentation.
 
 ## Training:
 * [train_instance.ipynb](training/train_instance.ipynb): trains the instance segmentation model.
